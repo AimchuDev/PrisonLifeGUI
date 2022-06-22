@@ -1,2 +1,3 @@
 # PrisonLifeGUI
-prisonlifegui lol
+OPEN SOURCE :D
+discord is in sourcecode.lua
