@@ -1,4 +1,4 @@
---[Made by Child Slayer#2259]
+--[Made by nexus#2446]
 print("Have fun using my script")
 -- Instances:
 
@@ -155,7 +155,9 @@ Credit.TextSize = 17
 Credit.TextWrapped = true
 Credit.TextXAlignment = Enum.TextXAlignment.Left
 
---scripts
+--
+
+s
 
 
 local function XQCOBL_fake_script() -- CrashMeLol.Script 
@@ -268,7 +270,6 @@ local function XCNVKFJ_fake_script() -- UI_2.LocalScript
 		local mouse = game:GetService("Players").LocalPlayer:GetMouse();
 		local inputService = game:GetService('UserInputService');
 		local heartbeat = game:GetService("RunService").Heartbeat;
-		-- // credits to Ririchi / Inori for this cute drag function :)
 		function dragger.new(frame)
 		    local s, event = pcall(function()
 		    	return frame.MouseEnter
